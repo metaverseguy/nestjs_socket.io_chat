@@ -1,10 +1,35 @@
 {
   "name": "nestjs-socketio-chat",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "version": "1.0.0",
+  "description": "Real-time chat app using NestJS & Socket.io, perfect for quick integration",
+  "author": "Hovahnnes Hovhannisyan",
+  "private": false,
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vontanne/nestjs-socketio-chat"
+  },
+  "homepage": "https://github.com/vontanne/nestjs-socketio-chat#readme",
+  "bugs": {
+    "url": "https://github.com/vontanne/nestjs-socketio-chat/issues"
+  },
+  "keywords": [
+    "chat-application",
+    "nestjs",
+    "socket.io",
+    "jwt-authentication",
+    "nodejs",
+    "typescript",
+    "websockets",
+    "open-source",
+    "group-chat",
+    "one-on-one-chat",
+    "chat-server",
+    "jwt-tokens"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
