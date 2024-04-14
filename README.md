@@ -1,6 +1,6 @@
 # nestjs-socketio-chat
 
-Welcome to **[Nest.js](https://nestjs.com) Socket.io Chat**! A robust, open-source chat application built for real-time communication. Whether it’s for group discussions or private conversations, this app facilitates interactive chat experiences.
+Welcome to **`Nest.js Socket.io Chat`!** A robust, open-source chat application built for real-time communication. Whether it’s for group discussions or private conversations, this app facilitates interactive chat experiences.
 
 ## Features
 
@@ -37,10 +37,13 @@ Test the app's endpoints and chat features using tools like Postman, which suppo
 
 Your contributions make our project thrive. Feel free to:
 
-- Report bugs
-- Discuss improvements
-- Submit fixes
-- Propose new features
+- **Report bugs**: [Submit a bug report](https://github.com/vontanne/nestjs-socketio-chat/issues/new?assignees=&labels=bug&template=bug_report.md)
+- **Discuss improvements**: [Start a discussion](https://github.com/vontanne/nestjs-socketio-chat/discussions)
+- **Submit fixes**: [Create a pull request](https://github.com/vontanne/nestjs-socketio-chat/compare)
+- **Propose new features**: [Request a feature](https://github.com/vontanne/nestjs-socketio-chat/issues/new?assignees=&labels=enhancement&template=feature_request.md)
+
+For more details on contributing, please review our [Contributing Guidelines](https://github.com/vontanne/nestjs-socketio-chat/blob/master/.github/CONTRIBUTING.md).
+
 
 ## License
 
